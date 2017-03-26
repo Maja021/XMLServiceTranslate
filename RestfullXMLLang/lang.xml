@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<language>
+   <english>
+      <word id="1">food</word>
+      <word id="2">house</word>
+	  <word id="3">bad</word>
+	  <word id="4">butterfly</word>
+	  <word id="5">salt</word>
+   </english>
+   <serbian>
+      <word id="1">hrana</word>
+      <word id="2">kuca</word>
+	  <word id="3">lose</word>
+	  <word id="5">so</word>
+   </serbian>
+   <russian>
+      <word id="1">hrana rus</word>
+      <word id="2">kuca rus</word>
+	  <word id="3">lose rus</word>
+	  <word id="4">butterfly rus</word>
+   </russian>
+</language>
